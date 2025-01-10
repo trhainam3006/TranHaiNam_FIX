@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"]
+	path = path_to_submodule
+	url = https://github.com/trhainam3006/Bai_Thuc_Hanh_Lop_Git_Fix
